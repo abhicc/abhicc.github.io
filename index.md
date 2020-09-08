@@ -1,10 +1,18 @@
 # Welcome! 
 
-I am an assistant professor of statistics at [Lawrence University](https://www.lawrence.edu/), [Appleton](https://en.wikipedia.org/wiki/Appleton,_Wisconsin), Wisconsin. I am originally from [Kolkata](https://en.wikipedia.org/wiki/Kolkata), India. I completed my bachelors in statistics from [St. Xavier's College, Kolkata](https://www.sxccal.edu/) and my masters from [IIT, Kanpur](https://www.iitk.ac.in/). I earned my PhD in statistics from [Iowa State University](https://www.iastate.edu/).
+I am an assistant professor of statistics in the department of [mathematics](https://www.lawrence.edu/academics/study/mathematics) at [Lawrence University](https://www.lawrence.edu/), [Appleton](https://en.wikipedia.org/wiki/Appleton,_Wisconsin), Wisconsin. I am originally from [Kolkata](https://en.wikipedia.org/wiki/Kolkata), India. I completed my bachelors in statistics from [St. Xavier's College, Kolkata](https://www.sxccal.edu/) and my masters from [IIT, Kanpur](https://www.iitk.ac.in/). I earned my PhD in statistics from [Iowa State University](https://www.iastate.edu/).
 
 I enjoy teaching and relish being in the company of students. Please visit my teaching and research pages to learn more about my academic activities.
 
 Outside the academic world, I enjoy biking and going for hikes. My other interests include playing and watching soccer as well as fiddling with my guitar.
+
+Please find below my contact information.
+
+**Office**: 407 Briggs Hall
+
+**Office Phone**: 920-832-7141
+
+**Email**: abhishek.chakraborty@lawrence.edu
 
 
 You can use the [editor on GitHub](https://github.com/abhicc/abhishekchakraborty.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
