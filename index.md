@@ -2,7 +2,8 @@
 
 I am an assistant professor of statistics at [Lawrence University](https://www.lawrence.edu/), [Appleton](https://en.wikipedia.org/wiki/Appleton,_Wisconsin), Wisconsin. I am originally from [Kolkata](https://en.wikipedia.org/wiki/Kolkata), India. I completed my bachelors in statistics from [St. Xavier's College, Kolkata](https://www.sxccal.edu/) and my masters from [IIT, Kanpur](https://www.iitk.ac.in/). I earned my PhD in statistics from [Iowa State University](https://www.iastate.edu/).
 
-I enjoy teaching and relish being in the company of students. 
+I enjoy teaching and relish being in the company of students. Please visit my teaching and research pages to learn more about my academic activities.
+
 
 You can use the [editor on GitHub](https://github.com/abhicc/abhishekchakraborty.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
