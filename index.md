@@ -4,6 +4,8 @@ I am an assistant professor of statistics at [Lawrence University](https://www.l
 
 I enjoy teaching and relish being in the company of students. Please visit my teaching and research pages to learn more about my academic activities.
 
+Outside the academic world, I enjoy biking and going for hikes. My other interests include playing and watching soccer as well as fiddling with my guitar.
+
 
 You can use the [editor on GitHub](https://github.com/abhicc/abhishekchakraborty.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
