@@ -6,8 +6,6 @@ I enjoy teaching and relish being in the company of students. Please visit my te
 
 Outside the academic world, I enjoy biking and going for hikes. My other interests include playing and watching soccer as well as fiddling with my guitar.
 
-Please find below my contact information.
-
 **Office**: 407 Briggs Hall
 
 **Office Phone**: 920-832-7141
