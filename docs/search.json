@@ -1,9 +1,30 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "the other side of me",
+    "section": "",
+    "text": "ironically, still under development 😄"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "research",
+    "section": "",
+    "text": "I am interested in developing statistical methodologies for analysis of complex datasets. Most of my research is focused broadly in the fields of statistical learning, data mining, predictive modeling, and the application of Bayesian methodologies. My PhD dissertation can be found here.\nI also like to think about ways to cater to a diverse population of students, reflect on how to improve as a teacher, and develop engaging pedagogical tools. Therein lies my interest in statistics education. Lately, I have also been interested in the history of statistics.\n\npublications\n\nThe Greenhouse Effect: Using Student-Generated Agricultural Data to Warm Up Students for Data-Based Decision Making (link)\nSome Bayesian Biclustering Methods: Modeling and Inference (link)\nModeling and Inference for Mixtures of Simple Symmetric Exponential Families of \\(p\\)-Dimensional Distributions for Vectors with Binary Coordinates (link)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Portfolio",
+    "title": "Welcome!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi there! I’m Abhishek (pronounced “a-bhe(like he)-shake”). I am an Associate Professor of Statistics in the Department of Mathematics, Statistics, and Computer Science at Lawrence University, Appleton, Wisconsin. I am originally from Kolkata, India. I completed my Bachelors in Statistics from St. Xavier’s College, Kolkata, and my Masters from IIT, Kanpur. I earned my Ph.D. in Statistics from Iowa State University.\nI enjoy teaching and relish being in the company of students. Please visit my teaching and research pages to learn more about my academic activities.\nOutside the academic world, I enjoy running, biking, and going for hikes. My other interests include watching soccer as well as fiddling with my guitar."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "teaching",
+    "section": "",
+    "text": "For more information about mathematics and statistics-data science courses offered at LU, please visit here. Information about computer science courses can be found here. The major/minor requirements of our mathematics and related programs can be found here.\nAt Lawrence, I have been the instructor for a variety of statistics and data science courses, and our flagship First-Year Studies course.\n\nSTAT 107: Principles of Statistics\nCMSC/STAT 205: Data‑Scientific Programming\nCMSC/LING/STAT 208: Statistical Machine Learning\nSTAT 255: Statistical Modeling\nMATH/STAT 340: Probability\nMATH/STAT 445: Mathematical Statistics\nSTAT 450: Bayesian Statistics\nSTAT 698: Statistics Senior Seminar (co-instructor)\nFRST 101: First‑Year Studies\n\nI have also been the instructor and TA for the following courses at ISU.\n\nSTAT 104: Introduction to Statistics\nSTAT 226: Introduction to Business Statistics I\nSTAT 305: Engineering Statistics\nSTAT 330: Probability and Statistics for Computer Science\nSTAT 326: Introduction to Business Statistics II"
   }
 ]

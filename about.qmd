@@ -1,5 +1,10 @@
 ---
-title: "About"
+title: "the other side of me"
 ---
 
-About this site
+```{r}
+#| echo: false
+library(emoji)
+```
+
+ironically, still under development `r emoji("smile")`

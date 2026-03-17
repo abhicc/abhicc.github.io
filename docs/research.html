@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Welcome! – Abhishek Chakraborty</title>
+<title>research – Abhishek Chakraborty</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,13 +35,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-c82218b12ac0f327fa8bd7d074ce2147.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,11 +69,40 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -92,7 +120,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">home</span></a>
   </li>  
   <li class="nav-item">
@@ -100,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
 <span class="menu-text">research</span></a>
   </li>  
   <li class="nav-item">
@@ -118,35 +146,60 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">publications</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="images/abhicc.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome!</h1>
+<h1 class="title">research</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header><main class="content" id="quarto-document-content">
-<div id="bio">
-<p>Hi there! I’m Abhishek (pronounced “a-bhe(like he)-shake”). I am an Associate Professor of Statistics in the Department of <a href="https://www.lawrence.edu/academics/college/mathematics">Mathematics</a>, <a href="">Statistics</a>, and <a href="https://www.lawrence.edu/academics/college/computer-science">Computer Science</a> at <a href="https://www.lawrence.edu/">Lawrence University</a>, <a href="https://en.wikipedia.org/wiki/Appleton,_Wisconsin">Appleton</a>, Wisconsin. I am originally from <a href="https://en.wikipedia.org/wiki/Kolkata">Kolkata</a>, India. I completed my Bachelors in Statistics from <a href="https://www.sxccal.edu/">St.&nbsp;Xavier’s College, Kolkata</a>, and my Masters from <a href="https://www.iitk.ac.in/">IIT, Kanpur</a>. I earned my Ph.D.&nbsp;in Statistics from <a href="https://www.iastate.edu/">Iowa State University</a>.</p>
-<p>I enjoy teaching and relish being in the company of students. Please visit my teaching and research pages to learn more about my academic activities.</p>
-<p>Outside the academic world, I enjoy running, biking, and going for hikes. My other interests include watching soccer as well as fiddling with my guitar.</p>
-<div id="landing-icons">
-<p><a href="https://github.com/abhicc" target="_blank"><i class="fa-brands fa-github" title="github" aria-label="github"></i></a> &nbsp; <a href="mailto:abhishek.chakraborty@lawrence.edu"><i class="fa-solid fa-envelope" title="envelope" aria-label="envelope"></i></a></p>
-</div>
-</div>
-<!-- [](https://bsky.app/profile/samcsik.bsky.social){target="_blank"} &nbsp;  -->
-<!-- [](https://bsky.app/profile/samcsik.bsky.social){target="_blank"} &nbsp;  -->
+  
 
 
-</main>  
-</div>
- <!-- /main -->
+</header>
+
+
+<p>I am interested in developing statistical methodologies for analysis of complex datasets. Most of my research is focused broadly in the fields of statistical learning, data mining, predictive modeling, and the application of Bayesian methodologies. My PhD dissertation can be found <a href="https://dr.lib.iastate.edu/entities/publication/21a0ac6e-0412-49e8-b91e-fd0f19319309">here</a>.</p>
+<p>I also like to think about ways to cater to a diverse population of students, reflect on how to improve as a teacher, and develop engaging pedagogical tools. Therein lies my interest in statistics education. Lately, I have also been interested in the history of statistics.</p>
+<section id="publications" class="level1">
+<h1>publications</h1>
+<ul>
+<li><p>The Greenhouse Effect: Using Student-Generated Agricultural Data to Warm Up Students for Data-Based Decision Making (<a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2441672">link</a>)</p></li>
+<li><p>Some Bayesian Biclustering Methods: Modeling and Inference (<a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11584">link</a>)</p></li>
+<li><p>Modeling and Inference for Mixtures of Simple Symmetric Exponential Families of <span class="math inline">\(p\)</span>-Dimensional Distributions for Vectors with Binary Coordinates (<a href="https://onlinelibrary.wiley.com/doi/10.1002/sam.11528">link</a>)</p></li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

@@ -1,0 +1,17 @@
+---
+title: "research"
+---
+
+I am interested in developing statistical methodologies for analysis of complex datasets. Most of my research is focused broadly in the fields of statistical learning, data mining, predictive modeling, and the application of Bayesian methodologies. My PhD dissertation can be found [here](https://dr.lib.iastate.edu/entities/publication/21a0ac6e-0412-49e8-b91e-fd0f19319309). 
+
+I also like to think about ways to cater to a diverse population of students, reflect on how to improve as a teacher, and develop engaging pedagogical tools. Therein lies my interest in statistics education. Lately, I have also been interested in the history of statistics.
+
+
+# publications
+
+* The Greenhouse Effect: Using Student-Generated Agricultural Data to Warm Up Students for Data-Based Decision Making ([link](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2441672))
+
+* Some Bayesian Biclustering Methods: Modeling and Inference ([link](https://onlinelibrary.wiley.com/doi/10.1002/sam.11584))
+
+* Modeling and Inference for Mixtures of Simple Symmetric Exponential Families of $p$-Dimensional Distributions for Vectors with Binary Coordinates ([link](https://onlinelibrary.wiley.com/doi/10.1002/sam.11528))
+

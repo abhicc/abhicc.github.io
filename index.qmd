@@ -1,7 +1,28 @@
 ---
-title: "Welcome to My Portfolio"
+title: "Welcome!"
+image: images/abhicc.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
 ---
 
-This is a Quarto website.
+::: {#bio}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi there! I'm Abhishek (pronounced "a-bhe(like he)-shake"). I am an Associate Professor of Statistics in the Department of [Mathematics](https://www.lawrence.edu/academics/college/mathematics), [Statistics](), and [Computer Science](https://www.lawrence.edu/academics/college/computer-science) at [Lawrence University](https://www.lawrence.edu/), [Appleton](https://en.wikipedia.org/wiki/Appleton,_Wisconsin), Wisconsin. I am originally from [Kolkata](https://en.wikipedia.org/wiki/Kolkata), India. I completed my Bachelors in Statistics from [St. Xavier's College, Kolkata](https://www.sxccal.edu/), and my Masters from [IIT, Kanpur](https://www.iitk.ac.in/). I earned my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/).
+
+I enjoy teaching and relish being in the company of students. Please visit my teaching and research pages to learn more about my academic activities. 
+
+Outside the academic world, I enjoy running, biking, and going for hikes. My other interests include watching soccer as well as fiddling with my guitar.
+
+
+::: {#landing-icons}
+[{{< fa brands github title="github" >}}](https://github.com/abhicc){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:abhishek.chakraborty@lawrence.edu)
+:::
+:::
+
+<!-- [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/samcsik.bsky.social){target="_blank"} &nbsp;  -->
+<!-- [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/samcsik.bsky.social){target="_blank"} &nbsp;  -->
+
+

@@ -1,0 +1,25 @@
+---
+title: "teaching"
+---
+
+For more information about mathematics and statistics-data science courses offered at LU, please visit [here](https://www.lawrence.edu/academics/college/mathematics/course-descriptions). Information about computer science courses can be found [here](https://www.lawrence.edu/academics/college/computer-science/course-descriptions). The major/minor requirements of our mathematics and related programs can be found [here](https://www.lawrence.edu/academics/college/mathematics/majorminor-requirements).
+
+At Lawrence, I have been the instructor for a variety of statistics and data science courses, and our flagship First-Year Studies course.
+
+* STAT 107: Principles of Statistics
+* CMSC/STAT 205: Data‑Scientific Programming 
+* CMSC/LING/STAT 208: Statistical Machine Learning 
+* STAT 255: Statistical Modeling
+* MATH/STAT 340: Probability 
+* MATH/STAT 445: Mathematical Statistics 
+* STAT 450: Bayesian Statistics
+* STAT 698: Statistics Senior Seminar (co-instructor)
+* FRST 101: First‑Year Studies 
+
+I have also been the instructor and TA for the following courses at ISU.
+
+* STAT 104: Introduction to Statistics
+* STAT 226: Introduction to Business Statistics I
+* STAT 305: Engineering Statistics
+* STAT 330: Probability and Statistics for Computer Science
+* STAT 326: Introduction to Business Statistics II

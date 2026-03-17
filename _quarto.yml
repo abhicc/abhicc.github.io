@@ -3,11 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "project"
+  title: "Abhishek Chakraborty"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: home
+      - href: teaching.qmd
+        text: teaching
+      - href: research.qmd
+        text: research
       - about.qmd
 
 format:
