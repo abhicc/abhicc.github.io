@@ -8,22 +8,26 @@ website:
     left:
       - href: index.qmd
         text: home
+      
       - href: teaching.qmd
         text: teaching
+      
       - href: research.qmd
         text: research
-      - sidebar:projects
-      - about.qmd
+      
+      - text: projects
+        menu: 
+          - href: sql_project.qmd
+            text: SQL project
+          - href: text_analysis_project.qmd
+            text: text analysis project
+          - href: Rpackage.qmd
+            text: R package
+            
+      - href: about.qmd
 
       
-  sidebar:
-    - id: projects
-      title: "projects"
-      contents:
-        - sql_project.qmd
-        - text_analysis_project.qmd
-        - Rpackage.qmd
-        
+
 format:
   html:
     theme:
