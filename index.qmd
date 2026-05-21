@@ -10,7 +10,7 @@ about:
 
 ::: {#bio}
 
-Hi there! I'm Abhishek (pronounced "a-bhe(like he)-shake"). I am an Associate Professor of Statistics in the Department of [Mathematics](https://www.lawrence.edu/academics/college/mathematics), [Statistics](), and [Computer Science](https://www.lawrence.edu/academics/college/computer-science) at [Lawrence University](https://www.lawrence.edu/), [Appleton](https://en.wikipedia.org/wiki/Appleton,_Wisconsin), Wisconsin. I am originally from [Kolkata](https://en.wikipedia.org/wiki/Kolkata), India. I completed my Bachelors in Statistics from [St. Xavier's College, Kolkata](https://www.sxccal.edu/), and my Masters from [IIT, Kanpur](https://www.iitk.ac.in/). I earned my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/).
+Hi there! I'm Abhishek (pronounced "uh-bhe(like he)-shake"). I am an Associate Professor of Statistics in the Department of [Mathematics](https://www.lawrence.edu/academics/college/mathematics), [Statistics](), and [Computer Science](https://www.lawrence.edu/academics/college/computer-science) at [Lawrence University](https://www.lawrence.edu/), [Appleton](https://en.wikipedia.org/wiki/Appleton,_Wisconsin), Wisconsin. I am originally from [Kolkata](https://en.wikipedia.org/wiki/Kolkata), India. I completed my Bachelors in Statistics from [St. Xavier's College, Kolkata](https://www.sxccal.edu/), and my Masters from [IIT, Kanpur](https://www.iitk.ac.in/). I earned my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu/).
 
 I enjoy teaching and relish being in the company of students. Please visit my teaching and research pages to learn more about my academic activities. 
 
