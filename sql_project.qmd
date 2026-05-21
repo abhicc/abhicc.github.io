@@ -4,6 +4,7 @@ title: "SQL project"
 
 **NOTE: This demonstration has been adapted from Jo Hardin's [classnotes](https://st47s.com/SDS261/Notes/).**
 
+**NOTE: This is joint work with Abhishek Chakraborty.**
 
 # load packages and connect to database server
 

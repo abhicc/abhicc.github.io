@@ -4,6 +4,8 @@ title: "text analysis project"
 
 **NOTE: This demonstration has been adapted from the [MDSR (3e)](https://mdsr-book.github.io/mdsr3e/) textbook.**
 
+**NOTE: This is joint work with Abhishek Chakraborty.**
+
 
 # resources
 
