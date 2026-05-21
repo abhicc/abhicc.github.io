@@ -26,5 +26,26 @@
     "title": "teaching",
     "section": "",
     "text": "For more information about mathematics and statistics-data science courses offered at LU, please visit here. Information about computer science courses can be found here. The major/minor requirements of our mathematics and related programs can be found here.\nAt Lawrence, I have been the instructor for a variety of statistics and data science courses, and our flagship First-Year Studies course.\n\nSTAT 107: Principles of Statistics\nCMSC/STAT 205: Data‑Scientific Programming\nCMSC/LING/STAT 208: Statistical Machine Learning\nSTAT 255: Statistical Modeling\nMATH/STAT 340: Probability\nMATH/STAT 445: Mathematical Statistics\nSTAT 450: Bayesian Statistics\nSTAT 698: Statistics Senior Seminar (co-instructor)\nFRST 101: First‑Year Studies\n\nI have also been the instructor and TA for the following courses at ISU.\n\nSTAT 104: Introduction to Statistics\nSTAT 226: Introduction to Business Statistics I\nSTAT 305: Engineering Statistics\nSTAT 330: Probability and Statistics for Computer Science\nSTAT 326: Introduction to Business Statistics II"
+  },
+  {
+    "objectID": "Rpackage.html",
+    "href": "Rpackage.html",
+    "title": "R package",
+    "section": "",
+    "text": "NOTE: This is a toy package created for expository purposes."
+  },
+  {
+    "objectID": "Rpackage.html#installation",
+    "href": "Rpackage.html#installation",
+    "title": "R package",
+    "section": "Installation",
+    "text": "Installation\nYou can install the development version of toypackage from GitHub with:\n\n# install.packages(\"remotes\")\n# install.packages(\"devtools\")\ndevtools::install_github(\"abhicc/toypackage\")"
+  },
+  {
+    "objectID": "Rpackage.html#examples",
+    "href": "Rpackage.html#examples",
+    "title": "R package",
+    "section": "Examples",
+    "text": "Examples\nThis is a basic example which shows you how to solve a common problem:\n\nlibrary(toypackage)\n\n\nstrsplit1 example\n\nfirst_subject_words &lt;- toy_data$recalled_words[1]\nstrsplit1(first_subject_words, split = \", \")\n#&gt; [1] \"cat\"   \"dog\"   \"mouse\"\n\n\n\nmin_max_scale example\n\nmin_max_scale(toy_data$test_score)\n#&gt; [1] 0.0000000 0.8043478 0.2173913 1.0000000 0.4782609\n\n\n\ntheme_academic example\n\nlibrary(ggplot2)\nggplot(toy_data, aes(x = reaction_time, y = test_score)) +\ngeom_point(size = 4, color = \"steelblue\") +\nlabs(title = \"Faster Reaction Times Correlate with Higher Scores\",\nx = \"Reaction Time (seconds)\", y = \"Scaled Test Score (0 to 1)\") +\ntheme_academic(base_size = 14)"
   }
 ]

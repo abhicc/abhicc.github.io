@@ -1,0 +1,67 @@
+---
+title: "R package"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+**NOTE: This is a toy package created for expository purposes.**
+
+# toypackage
+
+The goal of `toypackage` is to provide convenience functions for some common tasks. The source code of the package can be found [here](https://github.com/abhicc/toypackage).
+
+## Installation
+
+You can install the development version of `toypackage` from [GitHub](https://github.com/) with:
+
+```{r}
+#| message: false
+#| warning: false
+# install.packages("remotes")
+# install.packages("devtools")
+devtools::install_github("abhicc/toypackage")
+```
+
+## Examples
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example}
+#| message: false
+#| warning: false
+library(toypackage)
+```
+
+#### strsplit1 example
+
+```{r}
+first_subject_words <- toy_data$recalled_words[1]
+strsplit1(first_subject_words, split = ", ")
+```
+
+#### min_max_scale example
+
+```{r}
+min_max_scale(toy_data$test_score)
+```
+
+#### theme_academic example
+
+```{r, fig.align='center'}
+#| fig-align: 'center'
+#| message: false
+#| warning: false
+library(ggplot2)
+ggplot(toy_data, aes(x = reaction_time, y = test_score)) +
+geom_point(size = 4, color = "steelblue") +
+labs(title = "Faster Reaction Times Correlate with Higher Scores",
+x = "Reaction Time (seconds)", y = "Scaled Test Score (0 to 1)") +
+theme_academic(base_size = 14)
+```

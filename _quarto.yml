@@ -12,6 +12,12 @@ website:
         text: teaching
       - href: research.qmd
         text: research
+      - href: sql_project.qmd
+        text: SQL project
+      - href: text_analysis_project.qmd
+        text: text analysis project
+      - href: Rpackage.qmd
+        text: R package
       - about.qmd
 
 format:
