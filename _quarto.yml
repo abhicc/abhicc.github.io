@@ -12,14 +12,18 @@ website:
         text: teaching
       - href: research.qmd
         text: research
-      - href: sql_project.qmd
-        text: SQL project
-      - href: text_analysis_project.qmd
-        text: text analysis project
-      - href: Rpackage.qmd
-        text: R package
+      - sidebar:projects
       - about.qmd
 
+      
+  sidebar:
+    - id: projects
+      title: "projects"
+      contents:
+        - sql_project.qmd
+        - text_analysis_project.qmd
+        - Rpackage.qmd
+        
 format:
   html:
     theme:
