@@ -18,7 +18,7 @@ Outside the academic world, I enjoy running, biking, and going for hikes. My oth
 
 
 ::: {#landing-icons}
-[{{< fa brands github title="github" >}}](https://github.com/abhicc){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:abhishek.chakraborty@lawrence.edu)
+[{{< fa brands github title="github" >}}](https://github.com/abhicc/abhicc.github.io){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:abhishek.chakraborty@lawrence.edu)
 :::
 :::
 
